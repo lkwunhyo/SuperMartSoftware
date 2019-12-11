@@ -1,0 +1,268 @@
+commit c95ab31d20d3035cfe2c3eff5b99c4063acfd7a1
+Merge: febb0db 1cc16d1
+Author: picaresque <jwai7@live.com>
+Date:   Sun May 27 23:40:35 2018 +1000
+
+    Created javadocs and fixed exception errors
+
+commit febb0db125b21ca99d5ac3c99952a636cc9a79cb
+Author: picaresque <jwai7@live.com>
+Date:   Sun May 27 23:14:21 2018 +1000
+
+    Updated Comments and javadoc for StoreGUI and renamed class
+
+commit 1cc16d1e4052a273e8f3fa9570bb35a0c4c2caef
+Merge: 2cd4458 e71536f
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sun May 27 23:04:19 2018 +1000
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 2cd44589aac30b702376b47b294c888798dd3427
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sun May 27 23:03:58 2018 +1000
+
+    Merge fix
+
+commit c7c16bd3724aa88a060439515770eae2431bf4f9
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sun May 27 23:00:43 2018 +1000
+
+    Updated JavaDoc and comments in Item and Stock classes
+
+commit e71536fdecf584a5e149ecf08e9c0816a55d32e1
+Merge: 1b7dfec 92d093b
+Author: picaresque <jwai7@live.com>
+Date:   Sun May 27 22:54:32 2018 +1000
+
+    Merge branch 'master' of https://bitbucket.org/lkwunhyo/cab302assign2
+
+commit 1b7dfecc6af11ca2a45dbc475908ba5e22d1defd
+Author: picaresque <jwai7@live.com>
+Date:   Sun May 27 22:54:20 2018 +1000
+
+    Updated Javadoc and comments for Store and ParseCsv classes
+
+commit 92d093b87dd1008216221e27d1ae19376a4f741b
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sun May 27 21:48:33 2018 +1000
+
+    Fixed Manifest and edited JUnit for Manifest
+
+commit a6c306ca908afdf01da453a36012f7790990e327
+Author: picaresque <jwai7@live.com>
+Date:   Sun May 27 20:03:34 2018 +1000
+
+    Load Sales Log functionality
+
+commit a5230f7b0c8e2c911ac667abcb982c4f1dd40e31
+Merge: 9eac9c3 9c55be5
+Author: picaresque <jwai7@live.com>
+Date:   Sun May 27 19:57:31 2018 +1000
+
+    Merge branch 'master' of https://bitbucket.org/lkwunhyo/cab302assign2
+
+commit 9eac9c365c173f3448e25e7144b35c7ff39dac91
+Author: picaresque <jwai7@live.com>
+Date:   Sun May 27 19:57:07 2018 +1000
+
+    Added functionality to GUI buttons
+
+commit 9c55be5d86ab155647b8ec4a16e51ea8422b60b4
+Merge: 355f941 8988663
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sun May 27 19:55:54 2018 +1000
+
+    Fixed merge conflicts in GUI update
+
+commit 355f9414133aa34f64ca0da3a1fb3fd0c22c43d6
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sun May 27 19:48:37 2018 +1000
+
+    Fixed GUI features and JUnit for Store.java
+
+commit 89886631d8dae43157639b248a3340eafee65b32
+Author: picaresque <jwai7@live.com>
+Date:   Sun May 27 19:30:18 2018 +1000
+
+    Completed Load Manifest function, fixed exceptions misfiring
+
+commit a32c52132657a0abb08be03b580a586a66308831
+Merge: ddcb10d 528827b
+Author: picaresque <jwai7@live.com>
+Date:   Sun May 27 17:37:53 2018 +1000
+
+    Merge branch 'master' of https://bitbucket.org/lkwunhyo/cab302assign2
+
+commit ddcb10d4e2be7094ae17eb7beef6c4d84be01802
+Author: picaresque <jwai7@live.com>
+Date:   Sun May 27 17:37:41 2018 +1000
+
+    Created csv output functions and function to convert manifest to string
+
+commit 528827b4aa76ac2ce0965a2571104cbfbd73bd91
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sun May 27 16:57:49 2018 +1000
+
+    Added file creation functionality in GUI
+
+commit f3df66a3ea0c0330100be5603a63a1560fec1fb2
+Merge: 46fb1d4 e1a7ffa
+Author: picaresque <jwai7@live.com>
+Date:   Sun May 27 16:02:54 2018 +1000
+
+    Fixed Merge conflict errors in GUI and Store
+
+commit 46fb1d4d70c94dcd5e3d9dbdb513219828e17484
+Author: picaresque <jwai7@live.com>
+Date:   Sun May 27 15:53:59 2018 +1000
+
+    Updated Load Item Property functions in GUI
+
+commit e1a7ffaa50310e52885a68105fbd3a668d7d2a11
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sun May 27 15:49:34 2018 +1000
+
+    JUnit test cases (Store, Truck), Fixed reference for methods/variables in Store, Minor tweaks to Item, Fixed Exception throwing in truck classes, and tweaks to GUI
+
+commit 50cb494d30f894989b312409262fa3343f7fca28
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sat May 26 21:23:33 2018 +1000
+
+    Removed View Inventory button and created individual functions for buttons in the GUI class
+
+commit 72a73cc7f2f0e7f35d192ddbb22cb11475a32a96
+Author: picaresque <jwai7@live.com>
+Date:   Sat May 26 20:51:14 2018 +1000
+
+    updated gui property names
+
+commit d23fbe9e69ca818641d2aa62a456ea6ba07d9fd8
+Merge: f6d2e1f d2fd948
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sat May 26 20:12:58 2018 +1000
+
+    Fixing merge
+
+commit f6d2e1f9a6d4616c856b9955a9acce26305307dd
+Merge: c6771f9 71f5bbd
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sat May 26 20:00:56 2018 +1000
+
+    JUnit Test cases and GUI
+
+commit d2fd948c8710564a7b0145449af74fcde802f676
+Author: picaresque <jwai7@live.com>
+Date:   Sat May 26 19:55:43 2018 +1000
+
+    Cleaned up comments
+
+commit c6771f9a2eb22a00886751264c135e0ec25400d7
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sat May 26 19:52:21 2018 +1000
+
+    Fixing merge conflicts
+
+commit 6a8be87a95b3da4dfb66eb82959436841f7c70b6
+Author: picaresque <jwai7@live.com>
+Date:   Sat May 26 19:24:26 2018 +1000
+
+    added some error handling for parsing csv files
+
+commit 71f5bbdd84c1b11f12be5cee6c770685894ba6aa
+Author: picaresque <jwai7@live.com>
+Date:   Sat May 26 18:08:22 2018 +1000
+
+    Updated generate manifest and load maifest, updated truck subclass constructors to use super
+
+commit 15231f34ec79bf2d4cc3e847a00761f64aebd96b
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Sat May 26 16:06:03 2018 +1000
+
+    Added comments/Javadoc, and RE: Attempt GUI
+
+commit 14e41c9c640c4017eb9c7246aa09c2134f1eebef
+Merge: eb32ac3 5c65684
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Fri May 25 19:58:00 2018 +1000
+
+    Merge branch 'master' of https://bitbucket.org/lkwunhyo/cab302assign2
+
+commit eb32ac3db5afdf5c3a057afd88c5bcc1a44eafb4
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Fri May 25 16:51:49 2018 +1000
+
+    RE: Attempt at GUI implementation
+
+commit 5c656846730e989e360b1d6935ac0d4969b1d292
+Author: Jonathan Wai <jonathan@alphadigital.com.au>
+Date:   Fri May 25 13:40:52 2018 +1000
+
+    Updated Store manifest processing, and added functions to parse csv
+
+commit 5645ce0b1dca88ff942bd7b71e72b49e517b1242
+Author: picaresque <jwai7@live.com>
+Date:   Tue May 22 19:00:55 2018 +1000
+
+    Created generateManifest function
+
+commit e71f9f44040f55b81555c569db22e34c095a5f9d
+Author: picaresque <jwai7@live.com>
+Date:   Tue May 22 18:04:17 2018 +1000
+
+    Added Sort by temperature Function to Stock
+
+commit 8832920cff2ac6c65684a5d8a413ddf9d657ea89
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Tue May 22 16:19:55 2018 +1000
+
+    Stock and GUI changed
+
+commit b24b3341434d80ed17b7a11d1b2741aaa8869ec7
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Tue May 22 16:08:54 2018 +1000
+
+    Attempted Store
+
+commit 9f1a1a99e656796b11a458bf48589f63298ced53
+Merge: 8b60898 8651aba
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Tue May 15 16:52:12 2018 +1000
+
+    Attempted the JUnit test case for the Stock class.
+
+commit 8b60898a26034ebdb02abff15b1ac6e479b76b47
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Tue May 15 16:47:33 2018 +1000
+
+    Attempt at JUnit test for Stock class.
+
+commit 8651aba7eddae14b219e3eb44d8e2f785434a94d
+Author: picaresque <jwai7@live.com>
+Date:   Tue May 15 16:41:04 2018 +1000
+
+    Updated stock exceptions in test cases
+
+commit d3b43b60805760d90edc811b5ea01edac482cc1f
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Tue May 15 16:01:35 2018 +1000
+
+    Setting up project. Attempt at Delivery, most of Stock, and most of the CSV package.
+
+commit f30a8297c841bc0bd0cad8b8b696f3962343ff2a
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Tue May 15 15:26:58 2018 +1000
+
+    Improved JUnit tests for efficiency of the Item class. Completed Item class and created a basic StockException class for JUnit testing purposes.
+
+commit 86622affc7549237306fc8234235b7d95e41aa45
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Tue May 15 14:52:18 2018 +1000
+
+    JUnit test case for Item class.
+
+commit 1011d8a69596d0c1d9cb553049365d61707f4564
+Author: Kwun Hyo Lee <n9748482@qut.edu.au>
+Date:   Tue May 15 14:34:02 2018 +1000
+
+    Created a starting template for the assessment.
